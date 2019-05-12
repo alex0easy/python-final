@@ -1,5 +1,5 @@
 Data Wrangling Proposal
-Yue Guo, Anqi Li
+-Yue Guo, Anqi Li
 
 Proposal: People’s Ancestry and Yelp Restaurants.
 
