@@ -1,5 +1,6 @@
 # Mapping Ancestry and Restaurants in New York City
 Anqi Li, Yue Guo
+
 https://laq-anqi.github.io/data-viz-template/
 
 ## Description
